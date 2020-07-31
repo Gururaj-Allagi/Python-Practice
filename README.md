@@ -36,27 +36,3 @@ For Linux: git clone https://github.com/TheForgotensoul/Files-Folders.git
 cd to the folder where you Download/extracted the repository
 python main.py
 ```
-
-## Author
-
-👤 **TheForgotensoul**
-
-- Twitter: [@TheForgotensoul](https://twitter.com/TheForgotensoul)
-- Github: [@TheForgotensoul](https://github.com/TheForgotensoul)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/TheForgotensoul/Files-Folders/issues).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## 📝 License
-
-Copyright © 2020 [TheForgotensoul](https://github.com/TheForgotensoul).<br />
-This project is [MIT](https://github.com/TheForgotensoul/Files-Folders/blob/master/LICENSE) licensed.
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
